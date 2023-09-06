@@ -4,12 +4,10 @@ def plus(a : int, b : int) -> int:
 def minus(a, b):
     return a - b
 
-b = "Gurbannyyazyn yurdy"
-
-def mul(a, b):
-    return a * b
+def mul(a, b, c):
+    return a * b * c
 
 if __name__ == "__main__":
     print(plus(2, 2))
     print(minus(4, 2))
-    print(mul(3, 5))
+    print(mul(3, 5, 5))
