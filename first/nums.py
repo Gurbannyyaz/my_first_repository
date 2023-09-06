@@ -1,12 +1,10 @@
 def plus(a : int, b : int) -> int:
     return a + b
 
-text = "new_text"
-
 def minus(a, b):
     return a - b
 
-b = "Gurban"
+b = "Gurbannyyazyn yurdy"
 
 def mul(a, b):
     return a * b
